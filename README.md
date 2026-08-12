@@ -1,5 +1,7 @@
 # 🚗 Vehicle Tracker and Counter using YOLOv8 + Deep SORT
 
+> **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
+
 This project is a real-time vehicle tracking and counting system that detects and tracks vehicles crossing a defined line in traffic surveillance videos. It combines **YOLOv8** for object detection and **Deep SORT** for tracking, using OpenCV to visualize results dynamically.
 
 ## 🔧 Features
